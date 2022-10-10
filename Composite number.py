@@ -7,3 +7,4 @@ if count>=1:
     print(num, "is Composite Number")
 else:
     print(num, "is not composite number")
+
